@@ -1,4 +1,4 @@
-diy-mobile-planetarium
+# diy-mobile-planetarium
 Ich baue aktuell ein mobiles Planetarium mit einem möglichst geringen Einsatz von Ressourcen.
 Um Geld zu sparen (und damit vielleicht anderen Personen und Institutionen mit wenig Kapital
 einen Weg zu einem eigenen Planetarium zu zeigen) werde ich versuchen, die meisten Komponenten
