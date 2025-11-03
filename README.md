@@ -8,3 +8,10 @@ Natürlich steht mein Projekt auf den Schultern von Riesen - es gibt eine ganze 
 und entsprechende Bauanleitungen. Ich werde auf diese verlinken, wann immer ich sie verwendet habe.
 
 Für ein Planetarium mit einem Dom von vier Metern Durchmesser rechne ich aktuell mit ca. 2.000,- EUR.
+
+# Die Kuppel
+Die Kuppel wird aus lichtdichtem, schwer entflammbaren Stoff gebaut.
+Sie wird mithilfe von mehreren Fiberglasstäben in Form gehalten.
+
+# Quellen
+https://www.lss-planetariums.info/index.php?lang=en&menu=projector&page=projector
