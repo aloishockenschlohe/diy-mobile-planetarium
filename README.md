@@ -19,7 +19,9 @@ Als Projektor kommt ein handelsüblicher 1080p-Projektor zum Einsatz.
 # Die Optik
 Die Optik besteht aus zwei Kameraobjektiven:
 * ein lichtstarkes 50mm-Objektiv (f/1.2)
-* ein 8mm-Fischaugen-Objektiv 
+* ein 8mm-Fischaugen-Objektiv
+
+Die Optiken werden über ein Zenitprsima verbunden.
 
 # Quellen
 * https://www.lss-planetariums.info/index.php?lang=en&menu=projector&page=projector
