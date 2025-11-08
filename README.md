@@ -26,3 +26,4 @@ Die Optiken werden über ein Zenitprsima verbunden.
 # Quellen
 * https://www.lss-planetariums.info/index.php?lang=en&menu=projector&page=projector
 * https://www.wissenschaftskommunikation.de/format/mobiles-planetarium/
+* https://mobilesplanetarium.wixsite.com/space/post/wie-baue-ich-mir-einen-planetariumsprojektor
