@@ -21,9 +21,11 @@ Die Optik besteht aus zwei Kameraobjektiven:
 * ein lichtstarkes 50mm-Objektiv (f/1.2)
 * ein 8mm-Fischaugen-Objektiv
 
-Die Optiken werden über ein Zenitprsima verbunden.
+Die Objektive werden so miteinander verbunden, dass sie über eine gemeinsame Bildebene verfügen. Um ein Zenitprisma
+zwischen den beiden Objektive platzieren zu können sollten die Objektive über ein entsprechendes Auflagenmass verfügen.
 
 # Quellen
 * https://www.lss-planetariums.info/index.php?lang=en&menu=projector&page=projector
 * https://www.wissenschaftskommunikation.de/format/mobiles-planetarium/
 * https://mobilesplanetarium.wixsite.com/space/post/wie-baue-ich-mir-einen-planetariumsprojektor
+* https://www.heise.de/select/ct-foto/2018/7/1527570896199130/df.1518.044-047.neu1.qxp_table_11652.html
