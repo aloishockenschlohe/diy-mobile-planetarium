@@ -24,6 +24,11 @@ Die Optik besteht aus zwei Kameraobjektiven:
 Die Objektive werden so miteinander verbunden, dass sie über eine gemeinsame Bildebene verfügen. Um ein Zenitprisma
 zwischen den beiden Objektive platzieren zu können sollten die Objektive über ein entsprechendes Auflagenmass verfügen.
 
+Das 50-mm-Objektiv muss über eine hohe Lichtstärke (f/1.4 oder besser) verfügen, weil es über eine große
+Frontlinse verfügen muss, um den Lichtgang des Projektors ohne Abschattung aufnehmen zu können.
+
+Das Fisheye-Objektiv sollte eine Brennweite von 8mm besitzen, um ein 180°-Projektion zu ermöglichen.
+
 # Quellen
 * https://www.lss-planetariums.info/index.php?lang=en&menu=projector&page=projector
 * https://www.wissenschaftskommunikation.de/format/mobiles-planetarium/
