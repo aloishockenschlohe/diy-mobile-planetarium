@@ -11,7 +11,7 @@ Für ein Planetarium mit einem Dom von vier Metern Durchmesser rechne ich aktuel
 
 # Die Kuppel
 Die Kuppel wird aus lichtdichtem, schwer entflammbaren Stoff gebaut. Sie besteht aus 16 miteinander vernähten
-Segmenten, die mithilfe von Fiberglasstäben in Form gehalten (2 Stück an der Basis, 4 Stück von Basis zu Basis).
+Segmenten, die mithilfe von Fiberglasstäben (Zeltstangen) in Form gehalten (2 Stück an der Basis, 4 Stück von Basis zu Basis).
 
 # Der Projektor
 Als Projektor kommt ein handelsüblicher 1080p-Beamer zum Einsatz. Bei diesem sollte auf eine gute Auflösung
